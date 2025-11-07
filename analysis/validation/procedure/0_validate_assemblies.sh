@@ -23,8 +23,10 @@
 echo "Starting"
 
 
-
-
+#NOTE
+#See some example BUSCO commands here:
+#https://github.com/zaneveld/GCMP_genomics/blob/main/Analysis/procedure/braker3_busco_coral
+#It looks like we can install it into the apptainer using conda
 
 #Report end of analysis
 echo "Done"
